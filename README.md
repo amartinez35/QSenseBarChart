@@ -1,1 +1,1 @@
-# QSenseBarChart
+# QSensePolarAreaChart
