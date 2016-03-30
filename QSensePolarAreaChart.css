@@ -24,16 +24,16 @@
  */
 
 .QSenseBarChart .chart-legend{
-    float: left;
+  float: left;
 }
 
 .QSenseBarChart .chart{
-    float: left;
+  float: left;
 }
 
 .QSenseBarChart .chart-legend li span{
-    display: inline-block;
-    width: 12px;
-    height: 12px;
-    margin-right: 5px;
+  display: inline-block;
+  width: 12px;
+  height: 12px;
+  margin-right: 5px;
 }
