@@ -1,5 +1,5 @@
 {
-	"name" : "QSense Polar Area Chart",
+	"name" : "Polar Area",
 	"description" : "QSense Polar Area",
 	"icon" : "pie-chart",
 	"type" : "visualization",
